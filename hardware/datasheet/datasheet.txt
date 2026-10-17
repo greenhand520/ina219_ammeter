@@ -1,0 +1,2 @@
+ESP32总览：https://www.espressif.com/zh-hans/products/socs
+ESP8285 技术规格书: https://documentation.espressif.com/0a-esp8285_datasheet_cn.html
